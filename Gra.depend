@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1493343796 source:d:\mariusz\documents\studia\pn\gra\gra.cpp
+	"lib.hpp"
+	"scoreboard.hpp"
+	"newgame.hpp"
+	"info.hpp"
+
+1493343796 d:\mariusz\documents\studia\pn\gra\lib.hpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+
+1492314168 source:d:\mariusz\documents\studia\pn\gra\lib.cpp
+
+1493345966 source:d:\mariusz\documents\studia\pn\gra\scoreboard.cpp
+	"lib.hpp"
+
+1493144402 d:\mariusz\documents\studia\pn\gra\scoreboard.hpp
+
+1492315978 d:\mariusz\documents\studia\pn\gra\scoreboard.cpp
+	"lib.hpp"
+
+1493379256 source:d:\mariusz\documents\studia\pn\gra\newgame.cpp
+	"lib.hpp"
+	"scoreboard.hpp"
+	<queue>
+	<ctime>
+	<allegro5/allegro_image.h>
+
+1492904500 d:\mariusz\documents\studia\pn\gra\newgame.hpp
+
+1492904512 source:c:\documents and settings\notebook\pulpit\œmietnik\gra\gra.cpp
+	"lib.hpp"
+	"scoreboard.hpp"
+	"newgame.hpp"
+
+1492314170 c:\documents and settings\notebook\pulpit\œmietnik\gra\lib.hpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+
+1492646996 c:\documents and settings\notebook\pulpit\œmietnik\gra\scoreboard.hpp
+
+1492904500 c:\documents and settings\notebook\pulpit\œmietnik\gra\newgame.hpp
+
+1493128463 source:c:\documents and settings\notebook\pulpit\œmietnik\gra\newgame.cpp
+	"lib.hpp"
+	"scoreboard.hpp"
+	<queue>
+	<iostream>
+	<ctime>
+
+1492990834 source:c:\documents and settings\notebook\pulpit\œmietnik\gra\scoreboard.cpp
+	"lib.hpp"
+
+1493145879 d:\mariusz\documents\studia\pn\gra\info.hpp
+
+1493343796 source:d:\mariusz\documents\studia\pn\gra\info.cpp
+	"lib.hpp"
+
